@@ -1,3 +1,0 @@
-[submodule "php-gpg"]
-	path = php-gpg
-	url = https://github.com/jasonhinkle/php-gpg.git
